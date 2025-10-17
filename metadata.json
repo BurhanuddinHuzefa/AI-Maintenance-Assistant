@@ -1,0 +1,7 @@
+{
+  "name": "AI Maintenance Assistant",
+  "description": "An AI assistant for maintenance departments to manage complaints, equipment logs, and task updates through a chat interface connected to a data source, with a dashboard for viewing and filtering tasks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
